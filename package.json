@@ -7,7 +7,7 @@
   "description": "I am following along a youtube video learning techniques on how to make an ecommerce site. I do not claim this as an original program. This is me learning along with a video. The link to the youtube video will be provided below.\r https://www.youtube.com/watch?v=CDtPMR5y0QU",
   "main": "index.js",
   "scripts": {
-    "build": "cd backend && npm install --force && cd ../frontend && npm i --save react-bootstrap && npm install --force && npm run build --force",
+    "build": "cd backend && npm install --force && cd ../frontend && npm install --force && npm run build --force",
     "start": "node backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
