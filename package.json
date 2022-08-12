@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bduvidzon/Learning-Ecommerce/issues"
   },
-  "homepage": "https://github.com/bduvidzon/Learning-Ecommerce#readme"
+  "homepage": "https://github.com/bduvidzon/Learning-Ecommerce#readme",
+  "dependencies": {
+    "react-bootstrap": "^2.5.0"
+  }
 }
